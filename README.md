@@ -1,26 +1,22 @@
 <h1 align="center">
-<a href="myrepository"><img src="https://user-images.githubusercontent.com/73609472/119388739-126fb780-bca1-11eb-8c3c-768432df5972.png" alt="NSR"></a>
+<a href="myrepository"><img src="https://user-images.githubusercontent.com/60064250/146137115-d87b60fa-fd7c-46f7-9efd-9fc95845f47c.png" alt="NSR"></a>
 <br>
 👑 NSR 👑
 </h1>
 <p align="center">
-	<a href="https://twitter.com/Dirsoooo">
-		<img src="https://img.shields.io/twitter/follow/Dirsoooo?color=%2389DDFF&label=Follow%20%40Dirsoooo&style=flat-square"
-	</a>
+	
 	<a href="https://mit-license.org/">
-		<img src="https://img.shields.io/github/license/dirsoooo/Recon?color=%23C3E88D&style=flat-square">
+		
 	</a>
-	<a href="https://github.com/dirsoooo/Recon">
-		<img src="https://img.shields.io/github/repo-size/dirsoooo/Recon?color=%23FFCB6B&style=flat-square">
-	</a>
+	
 </p>
 
 The step of recognizing a target in both Bug Bounties and Pentest can be very time-consuming. Thinking about it, I decided to create my own recognition script with all the tools I use most in this step.
-All construction of this framework is based on the methodologies of [@ofjaaah](https://twitter.com/ofjaaah) and [@Jhaddix](https://twitter.com/Jhaddix). These people were my biggest inspirations to start my career in Information Security and I recommend that you take a look at their content, you will learn a lot!<br>
+All construction of this framework is based on the methodologies of [@Jhaddix](https://twitter.com/Jhaddix). These people were my biggest inspirations to start my career in Information Security and I recommend that you take a look at their content, you will learn a lot!<br>
 
 ## Usage 💡
 
-![Help Menu](https://user-images.githubusercontent.com/73609472/119419242-3b5b7100-bcd0-11eb-9c2d-1afbfaf84122.png)
+![Help Menu](https://helpdemo page)
 ### Basic usage
 ```
 ❯ ./recon.sh -d domain.com -w /path/to/your/wordlist.txt
@@ -33,7 +29,7 @@ All construction of this framework is based on the methodologies of [@ofjaaah](h
 ```
 ❯ ./recon.sh -d domain.com -w /path/to/your/wordlist.txt -g [github_api_key] -s [shodan_api_key] -f
 ```
-![Usage](https://user-images.githubusercontent.com/73609472/119388865-3d5a0b80-bca1-11eb-94a8-2378a512d2b7.gif)
+![Usage](https://workinggifphoto)
 
 ## Help menu 🔎
 
@@ -134,18 +130,10 @@ chmod +x installation.sh
 **Please DO NOT remove any of the files inside the folder, they are all important!**
 ### Installation script tested on:
 - Kali Linux <br>[<img width="100px" src="https://lcom.static.linuxfound.org/images/stories/66866/kali-logo.png">](https://www.kali.org/)
-- Arch Linux <br>[<img style="padding-left: 20px;" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">](https://archlinux.org/)
-- BlackArch Linux <br>[<img width="64px" src="https://user-images.githubusercontent.com/73609472/119390274-2c11fe80-bca3-11eb-9660-09db99b6d9cb.png">](https://blackarch.org/)
-- Ubuntu <br>[<img style="padding-left: 20px;" width="64px" src="https://ubuntu.com/favicon.ico">](https://ubuntu.com/)
-- Parrot Security <br>[<img style="padding-left: 20px;" width="64px"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">](https://www.parrotsec.org/)
 ## Poject Mindmap
 
-![Mindmap](https://user-images.githubusercontent.com/73609472/119389097-8a3de200-bca1-11eb-831b-d8739075695f.png)
+![Mindmap](https://user-images.githubusercontent.com/60064250/146136303-2d61abe9-a360-4c24-9f9e-f07fcef77016.png)
 
 ## License
-``Recon`` was entirely coded with ❤ by [@Dirsoooo](https://twitter.com/Dirsoooo) and it is released under the MIT license.
+``NSR`` was entirely coded with ❤ by [@TeamNSR] and it is released under the MIT license.
 
-## Buy me a coffee ☕
-If you liked my job and want to support me in some way, buy me a coffee 😁
-
-[<img width="400px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png">](https://www.buymeacoffee.com/dirso)
