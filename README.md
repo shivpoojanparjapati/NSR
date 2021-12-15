@@ -5,31 +5,11 @@
 </h1>
 <p align="center">
 	
-	<a href="https://mit-license.org/">
-		
-	</a>
-	
 </p>
 
 The step of recognizing a target in both Bug Bounties and Pentest can be very time-consuming. Thinking about it, I decided to create my own recognition script with all the tools I use most in this step.
 All construction of this framework is based on the methodologies of [@Jhaddix](https://twitter.com/Jhaddix). These people were my biggest inspirations to start my career in Information Security and I recommend that you take a look at their content, you will learn a lot!<br>
 
-## Usage 💡
-
-![Help Menu](https://helpdemo page)
-### Basic usage
-```
-❯ ./recon.sh -d domain.com -w /path/to/your/wordlist.txt
-```
-### Quiet mode
-```
-❯ ./recon.sh -d domain.com -w /path/to/your/wordlist.txt -q
-```
-### Recommended usage
-```
-❯ ./recon.sh -d domain.com -w /path/to/your/wordlist.txt -g [github_api_key] -s [shodan_api_key] -f
-```
-![Usage](https://workinggifphoto)
 
 ## Help menu 🔎
 
@@ -43,6 +23,25 @@ Option     		 | Value
 -s       		 | `Shodan API Key. This parameter is used to automate the search for domains associated with your target(Requires API Key premium). If you don't have it, you can do the searches manually and the dorks are saved in the output folder.`
 -o     		     | `Your output folder. If you don't specify the parameter, all the results of the script will be saved in a folder with your target's name inside the script path`
 -q       		 | `Quiet mode. All banners and details of the script's execution will not be shown in the terminal, but everything that is executed in normal mode is executed as well. You will be able to see all the results in detail in your output folder`
+
+
+## Usage 💡
+
+![Help Menu](https://helpdemo page)
+### Basic usage
+```
+❯ ./nsr.sh -d domain.com -w /path/to/your/wordlist.txt
+```
+### Quiet mode
+```
+❯ ./nsr.sh -d domain.com -w /path/to/your/wordlist.txt -q
+```
+### Recommended usage
+```
+❯ ./nsr.sh -d domain.com -w /path/to/your/wordlist.txt -g [github_api_key] -s [shodan_api_key] -f
+```
+![Usage](https://workinggifphoto)
+
 
 ## Features ✅
 ### ASN Enumeration
