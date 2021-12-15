@@ -1,7 +1,7 @@
 <h1 align="center">
-<a href="myrepository"><img src="https://user-images.githubusercontent.com/73609472/119388739-126fb780-bca1-11eb-8c3c-768432df5972.png" alt="Recon"></a>
+<a href="myrepository"><img src="https://user-images.githubusercontent.com/73609472/119388739-126fb780-bca1-11eb-8c3c-768432df5972.png" alt="NSR"></a>
 <br>
-👑 Recon 👑
+👑 NSR 👑
 </h1>
 <p align="center">
 	<a href="https://twitter.com/Dirsoooo">
